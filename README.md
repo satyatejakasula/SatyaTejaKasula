@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://stockpulse.ai/wp-content/uploads/2022/03/Site-Stats.gif" align="center" style="width: 100%" />
+<img src="https://stockpulse.ai/wp-content/uploads/2022/03/Site-Stats.gif" align="center" style="width: 30%" />
 </div>  
   
 
