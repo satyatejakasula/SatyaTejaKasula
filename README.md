@@ -6,7 +6,7 @@
 ### <div align="center">I'm Satya Teja Kasula, a Business Data Analyst 🕵️‍♂️📊</div>  
   
 
-- 🌱 I’m currently learning AI/ML  
+- 🌱 I’m currently Networking and Security  
   
 
 - ❓ Ask me about anything related to Python, R, SQL, Alteryx, Tableau   
